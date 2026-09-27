@@ -1,9 +1,9 @@
 export const site = {
-  name: "Yuimi Lab",
-  title: "Yuimi Lab | Anime x Code",
-  description: "一个混合二次元审美与技术开发记录的个人博客。",
-  author: "喝益胃 / Yuimi-chaya",
-  keywords: ["喝益胃", "Yuimi-chaya", "Yuimi Lab", "个人博客", "二次元", "技术开发", "Astro"],
+  name: "Nazhi Velvetfield",
+  title: "雫之绒野 | Nazhi Velvetfield",
+  description: "雫之绒野（Nazhi Velvetfield）的个人站点，记录技术开发、二次元相关内容与日常随笔。",
+  author: "雫之绒野 / Nazhi Velvetfield",
+  keywords: ["雫之绒野", "Nazhi Velvetfield", "nrongye", "个人博客", "二次元", "技术开发", "Astro"],
   nav: [
     { href: "/", label: "HOME", icon: "tabler:home-heart", hint: "front page" },
     { href: "/blog/", label: "BLOG", icon: "tabler:book-2", hint: "notes" },
