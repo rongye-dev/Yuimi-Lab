@@ -1,14 +1,14 @@
 export const profileIdentity = {
-  displayName: "喝益胃",
-  handle: "Yuimi-chaya",
-  siteName: "Yuimi Lab",
-  bio: "二次元技术宅 / 兴趣驱动型折腾人，喜欢研究有意思的小东西，也喜欢把开发记录做得清透一点。",
-  github: "https://github.com/Yuimi-chaya",
-  bilibili: "https://space.bilibili.com/494350222"
+  displayName: "雫之绒野",
+  handle: "nazhi-velvetfield",
+  siteName: "Nazhi Velvetfield",
+  bio: "二次元技术宅 / 兴趣驱动型折腾人，喜欢研究……",
+  github: "https://github.com/rongye-dev",
+  bilibili: "https://space.bilibili.com/1418386320",
 } as const;
 
 export const profileStatus = [
-  "正在学习 UE5",
+  "正在学习 Kotlin",
   "在折腾 AstrBot / MMD / 小游戏",
   "喜欢把技术做得有点可爱"
 ] as const;
@@ -16,7 +16,7 @@ export const profileStatus = [
 export const profileTech = [
   { key: "unity", name: "Unity3D", note: "游戏逻辑 / 互动实验" },
   { key: "blender", name: "Blender", note: "建模 / 场景 / 小道具" },
-  { key: "ue5", name: "UE5", note: "正在学习中" },
+  { key: "ue5", name: "Kotlin", note: "正在学习中" },
   { key: "mmd", name: "MMD 制作", note: "动作 / 镜头 / 舞台感" },
   { key: "astrbot", name: "AstrBot", note: "插件开发 / 部署记录" }
 ] as const;
@@ -47,7 +47,7 @@ export const favoriteGames = [
 ] as const;
 
 export const currentSignals = [
-  { label: "正在学习", text: "UE5 的场景、材质和蓝图，把脑内小房间慢慢搭出来。" },
+  { label: "正在学习", text: "Kotlin开发Android应用、努力编写出想象中的应用。" },
   { label: "最近在折腾", text: "AstrBot 插件、部署教程、以及能让博客动起来的小机关。" },
   { label: "今日电波", text: "技术可以严谨一点，呈现方式可以更像玩具一点。" }
 ] as const;
